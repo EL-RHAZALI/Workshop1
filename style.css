@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    border-style: solid;
+    margin: auto;
+    width: 1100px;
+    height: 70px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    margin-left: 150px;
+}
+ul{
+    margin-left: 150px;
+}
