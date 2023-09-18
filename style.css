@@ -1,15 +1,21 @@
 h1{
     color: red;
-    border-style: solid;
+    font-size: 50px;
+    border: solid;
     margin: auto;
-    width: 1100px;
-    height: 70px;
+    margin-top: 20px;
+    padding-top: 8px;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: arial;
+    width: 1100px;
+    height: 65px;
 }
-a{
+.anas2{
     margin-left: 150px;
 }
-ul{
+.anas3{
+    margin-left: 150px;
+}
+.anas4{
     margin-left: 150px;
 }
